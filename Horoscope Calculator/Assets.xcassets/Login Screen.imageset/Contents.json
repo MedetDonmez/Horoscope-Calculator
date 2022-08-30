@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Bir başlık ekleyin.png",
+      "filename" : "loginx.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Bir başlık ekleyin@2x.png",
+      "filename" : "login2x@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Bir başlık ekleyin@3x.png",
+      "filename" : "login@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
